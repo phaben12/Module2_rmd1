@@ -3,8 +3,8 @@ title: "Module2 - R Markdown Document 1"
 author: "Philip Abenojar"
 date: "May 5, 2026"
 output:
-  word_document: default
   pdf_document: default
+  word_document: default
   html_document: default
 editor_options:
   chunk_output_type: console
